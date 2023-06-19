@@ -6,10 +6,11 @@ function NavBar() {
     <div>
         <ul className='navBar'> 
         <li><Link to ='/'>Home</Link></li>
-        <li><Link to ='/Estimates'>Estimates</Link></li>
+        <li><Link to ='/Gallery'>Gallery</Link></li>
         <li><Link to ='/Contact'>Contact</Link></li>
         <li><Link to ='/Services'>Services</Link></li>
-        <li><Link to ='/AboutCompany'>About Company</Link></li>
+        <li><Link to ='/About'>About</Link></li>
+        <li><Link to ='Reviews'>Reviews</Link></li>
         </ul>
     </div>
   )
