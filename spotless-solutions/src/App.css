@@ -22,29 +22,21 @@
 }
 
 .navBar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 20px;
-  background-color: transparent;
-  color: #fff;
-  z-index: 100;
-}
-
-.navBar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  overflow: hidden;
+  background-color: rgba(153, 154, 167, 0.524);
+  padding: 5px;
   display: flex;
-  justify-content: flex-end;
+  list-style-type: none;
 }
 
-.navBar ul li {
-  margin-left: 20px;
-}
+.navBar a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 18px 8px;
+text-decoration: none;
+font-size: 25px;
 
-.navBar ul li a {
-  color: #fff;
-  text-decoration: none;
+
+
 }
