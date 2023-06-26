@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <div>
         <ul className='navBar'> 
-        <li><Link to ='/'>Home</Link></li>
+        <li className='logoPic'><Link to ='/'>Home</Link></li>
         <li><Link to ='/Gallery'>Gallery</Link></li>
         <li><Link to ='/Contact'>Contact</Link></li>
         <li><Link to ='/Services'>Services</Link></li>
