@@ -4,7 +4,7 @@ import React from 'react'
 function Contact() {
   return (
     <div>
-        <h3>Contact Us Now!</h3>
+        <h1>Contact Us Now!</h1>
         <h4>You can fill out this form and we will give you a custom quote with more detailed information. If you need to call us please reach out to us at *blank*</h4>
        
        <div>

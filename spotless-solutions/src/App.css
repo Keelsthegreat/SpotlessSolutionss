@@ -41,3 +41,11 @@ font-size: 25px;
 
 }
 
+.servicePic {
+  width:800px;
+  height:800px;
+}
+
+.divTxt {
+  font-family: 'Mon';
+}
